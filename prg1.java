@@ -9,7 +9,8 @@ package hello.world;
  *
  * @author dhilipan A
  */
-public class prg1 {
+public class prg1 
+{
 
     /**
      * @param args the command line arguments
